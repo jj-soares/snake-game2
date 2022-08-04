@@ -1,0 +1,18 @@
+body{
+
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(224, 52, 52);
+
+}
+
+
+.text{
+
+    font-family: Kanit;
+    font-size: 100px;
+}
