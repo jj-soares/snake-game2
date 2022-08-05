@@ -19,8 +19,7 @@
  # Sobre
      
      
-   <p> Esse e um projeto de recriação do jogo da cobrinha, aonde estou estilizizando de forma mais 
-      atual para que tenha a cara da modernidade </p>
+   <p> Esse e um projeto de recriação do jogo da cobrinha, para a conclusão do curso da Digital Innovation One.  </p>
    
    
    
@@ -42,8 +41,8 @@
    
    # Fotos 
    <div style="display: inline_block" >
-   <img  src="./img/readme.gif">
-   <img width="650px"  src="./img/img readme.JPG">
+   <img  src="./img/snake1.gif">
+   <img width="650px"  src="./img/snake.JPG">
    </div>
 
    # Autor 
