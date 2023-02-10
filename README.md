@@ -3,48 +3,54 @@
 </h1>
 
 <h4 align="center">
-  💻Jogo simples da cobrinha para relembrar grandes momentos da infancia 
+  💻 Simple snake game to remember great childhood moments
 </h4>
 
-<p align="center">   
-   <a href="#sobre">Sobre</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#tecnologias">Tecnologias</a> .
-   <a href="#fotos">Fotos</a> . 
-   <a href="#autor">Autor</a>
- </p>
 
+## Photo 🎴
 
-   
- # Sobre
-     
-     
-   <p> Esse e um projeto de recriação do jogo da cobrinha, para a conclusão do curso da Digital Innovation One.  </p>
-   
-   
-   
-   
-   
-   # Roadmap 
-   
-   <p> Estava com bastante saudade dos jogos que marcaram a epoca de 90, quando resolvi 
-   fazer essa aplicação, por mais que seja simples e com certeza divertido demais e testa 
-   suas habilidades! </p>
-   
-   
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
-  <p>Java Script</p>
-   
-   
-   # Fotos 
    <div style="display: inline_block" >
    <img  src="./img/snake1.gif">
    <img width="650px"  src="./img/snake.JPG">
    </div>
+   
+<p align="center">   
+   <a href="#on">On</a> .
+   <a href="#roadmap">Roadmap</a> .
+   <a href="#technologies">Technologies</a> .
+   <a href="#photo">Photo</a> . 
+   <a href="#author">Author</a> 
+   
+ </p>
+   
+ ## On ✔
+     
+     
+   <p>  This is a project to recreate the snake game, for the completion of the Digital Innovation One course. </p>
+   
+   
+   
+   
+   
+   
+ ## Roadmap 🗺
+   
+   <p> I really missed the games that marked the 90s, when I decided
+   making this application, even though it is simple and certainly too much fun and tests
+   your skills!</p>
+   
+   
+## Technologies 🚀
+   
+   <h3 align="center"> Technologies used in the project 🙃 </h3>
+   
+   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
 
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://www.javascript.com/)
+   
+   
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
    
